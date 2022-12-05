@@ -10,3 +10,5 @@ def function(laks):
 while True:
     antallaks = int(input("Hvor mange laks er det"))
     function(antallaks)
+
+#Test for pull!
